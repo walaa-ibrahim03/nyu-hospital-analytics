@@ -26,7 +26,7 @@ The dataset contains discharge-level information including patient characteristi
 
 **Official Source:**  
 New York State Department of Health – Health Data NY
-https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/sf4k-39ay/about_data
+https://health.data.ny.gov/stories/s/SPARCS-PUF-Story-Page/wvua-rr23/
 
 ## Data Preparation
 
