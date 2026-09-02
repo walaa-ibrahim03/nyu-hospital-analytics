@@ -28,6 +28,14 @@ The dataset contains discharge-level information including patient characteristi
 New York State Department of Health – Health Data NY
 https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/sf4k-39ay/about_data
 
+## Data Preparation
+
+The 2024 SPARCS inpatient discharge dataset was filtered to include only records for `NYU LANGONE HOSPITALS`.
+
+**Records used: 50,456**
+
+![SPARCS NYU Langone Dataset Filter](sparcs_nyu_dataset_filter.png)
+
 **Dataset:** Hospital Inpatient Discharges (SPARCS De-Identified): 2024
 
 For this project, the dataset was filtered to:
